@@ -1,1 +1,1 @@
-web: python chatbot.py
+webhook: python chatbot.py
